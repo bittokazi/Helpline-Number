@@ -1,0 +1,12 @@
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\bin\Debug\Helpline BD Admin.exe.config
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\bin\Debug\Helpline BD Admin.exe
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\bin\Debug\Helpline BD Admin.pdb
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\bin\Debug\MySql.Data.dll
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline BD Admin.csprojResolveAssemblyReference.cache
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline_BD_Admin.Form1.resources
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline_BD_Admin.Form2.resources
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline_BD_Admin.Properties.Resources.resources
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline BD Admin.csproj.GenerateResource.Cache
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline BD Admin.exe
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline BD Admin.pdb
+c:\users\bitto\documents\visual studio 2013\Projects\Helpline BD Admin\Helpline BD Admin\obj\Debug\Helpline_BD_Admin.Form3.resources

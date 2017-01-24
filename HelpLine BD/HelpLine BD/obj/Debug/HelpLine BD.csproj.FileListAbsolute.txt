@@ -1,0 +1,11 @@
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\bin\Debug\HelpLine BD.exe.config
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\bin\Debug\HelpLine BD.exe
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\bin\Debug\HelpLine BD.pdb
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\bin\Debug\MySql.Data.dll
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine BD.csprojResolveAssemblyReference.cache
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine_BD.Form1.resources
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine_BD.Properties.Resources.resources
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine BD.csproj.GenerateResource.Cache
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine BD.exe
+c:\users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine BD.pdb
+C:\Users\bitto\documents\visual studio 2013\Projects\HelpLine BD\HelpLine BD\obj\Debug\HelpLine_BD.Form2.resources
